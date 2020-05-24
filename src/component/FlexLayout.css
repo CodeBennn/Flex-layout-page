@@ -1,0 +1,40 @@
+header,footer{
+    display: flex;
+}
+header{
+    flex:1;
+    background-color: #4f5926;
+}
+main.main-layout{
+    display: flex;
+    flex:11;
+    margin: 10px 0;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex:4;
+    background-color: #cdc66d;
+}
+
+.footer-btn{
+    width: 130px;
+    height: 36px;
+    background: linear-gradient(to right,#eeb80a, #fad939);
+    border-radius: 20px;
+    border: 0px;
+}
+
+@media all and (max-width:375px){
+    header{
+        flex:0.5;
+    }
+    main.main-layout{
+        flex: 15;
+        flex-direction: column;
+    }
+    footer{
+        flex:3;
+    }
+  }
