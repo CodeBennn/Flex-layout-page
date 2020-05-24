@@ -1,8 +1,8 @@
 This is Chang yong Ben's home task.
-Using flex layout without multiple theme.
+Using flex layout without multiple themes.
 
 Big screen:
-![./large-screen.png]
+![Big screen](./large-screen.png)
 
 Small screen:
-![./small-screen.png]
+![Small screen](./large-screen.png)
