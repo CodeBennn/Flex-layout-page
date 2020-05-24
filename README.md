@@ -6,8 +6,7 @@ I used css flex layout.
 2.npm start 
 3.http://localhost:3000 to view the project 
 
-Big screen:
+
 ![Big screen](./large-screen.png)
 
-Small screen:
 ![Small screen](./small-screen.png)
