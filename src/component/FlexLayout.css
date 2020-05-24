@@ -1,5 +1,6 @@
 header,footer{
     display: flex;
+    display: -moz-flex; 
 }
 header{
     flex:1;
@@ -7,11 +8,13 @@ header{
 }
 main.main-layout{
     display: flex;
+    display: -moz-flex; 
     flex:11;
     margin: 10px 0;
 }
 footer{
     display: flex;
+    display: -moz-flex; 
     align-items: center;
     justify-content: center;
     flex:4;

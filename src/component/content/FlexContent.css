@@ -3,6 +3,7 @@ section{
 }
 .section-layout-start{
     display: flex;
+    display: -moz-flex; 
     flex: 1;
     flex-direction: column;
 }
