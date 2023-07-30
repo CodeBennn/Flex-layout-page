@@ -1,4 +1,4 @@
-This is Chang yong Ben's home task.
+flex layout app
 I used create-react-app-ts as the initial project.
 I used css flex layout.
 
